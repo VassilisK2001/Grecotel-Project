@@ -9,3 +9,5 @@ airflow-webserver.pid
 webserver_config.py
 airflow.cfg
 airflow.db
+absa/training_checkpoints/
+absa/hpt_search_results/
